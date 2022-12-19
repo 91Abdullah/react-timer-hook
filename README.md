@@ -1,2 +1,9 @@
-# react-timer-hook
-Created with CodeSandbox
+# React Timer Hook
+
+This repository contains react timer hook implementation.
+
+## Import useTimer hook
+
+```
+
+```
